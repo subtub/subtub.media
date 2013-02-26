@@ -1,6 +1,10 @@
 # subtub.media changelog
 
-**[v1.0.0](https://github.com/subtub/subtub.media/tree/v1.0.0)**
+**[v1.0.1](https://github.com/subtub/subtub.media/tree/v1.0.0)** - 2013.02.26 12:44:42
+
+- split content into CHANGELOG, DOCS and TODO .md files.
+
+**[v1.0.0](https://github.com/subtub/subtub.media/tree/v1.0.0)** - 2013.02.25 00:00:00
 
 - added logo  
   design, save clean svg file and export png files.
