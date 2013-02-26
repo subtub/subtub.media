@@ -1,8 +1,10 @@
 # subtub.media
 
-Documentation can be found at [subtub.media/DOCS.md](https://github.com/subtub/subtub.media/blob/master/DOCS.md)
+The following chapter can be can be found as file at root dir.
 
-TODO can be found at [subtub.media/TODO.md](https://github.com/subtub/subtub.media/blob/master/TODO.md)
+- [CHANGELOG.md](CHANGELOG.md)
+- [DOCS.md](DOCS.md)
+- [TODO.md](TODO.md)
 
 
 
