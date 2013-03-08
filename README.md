@@ -1,12 +1,10 @@
 # subtub.media
 
-The following chapter can be can be found as file at root dir.
+The following chapter can be found as file at root dir.
 
 - [CHANGELOG.md](CHANGELOG.md)
 - [DOCS.md](DOCS.md)
 - [TODO.md](TODO.md)
-
-
 
 ## Authors
 
