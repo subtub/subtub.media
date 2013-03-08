@@ -1,13 +1,9 @@
 # subtub.media docs
 
-
-
 ## Content
 
 - [Logos](#logos)
 - [Development](#development)
-
-
 
 ## Logos
 **SVG**
@@ -33,8 +29,6 @@ subtub_logo_400px.png
 Source: https://raw.github.com/subtub/subtub.media/master/logos/subtub_logo_400px.png  
 HTML embed: ```<img src="https://raw.github.com/subtub/subtub.media/master/logos/subtub_logo_400px.png" alt="subtub logo">```
 
-
-
 ## Development
 
 **Quick Start**
@@ -55,7 +49,7 @@ it is strictly ensured that a strict versioning is maintained if a branches is m
 
 if the master is merged correctly, add a tag to master
 ```
-git tag -a v.x.y.z -m "Version x.y.z release" 
+git tag -a vX.Y.Z -m "Version X.Y.Z release" 
 ```
 
 you can link it from this repository by running:
