@@ -1,9 +1,10 @@
 # subtub.media changelog
 
-**[v1.2.0]()** - 2013.03.08 10:47:55
+**[v1.2.0](https://github.com/subtub/subtub.media/tree/v1.2.0)** - 2013.03.08 10:47:55
 
 - svg add title and description tag
 - add html embed snippets
+- Merge https://github.com/subtub/subtub.media/pull/3
 
 **[v1.1.0](https://github.com/subtub/subtub.media/tree/v1.1.0)** - 2013.02.26 13:13:54
 
