@@ -1,5 +1,10 @@
 # subtub.media changelog
 
+**[v1.3.0](https://github.com/subtub/subtub.media/tree/v1.3.0)** - 2013.09.02 14:23:05
+
+- added logos/README.md
+- Moved DOCS.md content to README
+
 **[v1.2.0](https://github.com/subtub/subtub.media/tree/v1.2.0)** - 2013.03.08 10:47:55
 
 - svg add title and description tag
